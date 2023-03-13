@@ -1,0 +1,7 @@
+{
+    "DB_USERNAME": "",
+    "DB_PASSWORD": "",
+    "DB_PORT": "3306",
+    "DB_HOST": "",
+    "DB_NAME": "AresFit"
+}
